@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Foodie.Controllers
+namespace Foodie.Controllers.Restaurant
 {
     public class AddResController : Controller
     {
