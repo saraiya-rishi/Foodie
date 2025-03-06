@@ -2,9 +2,9 @@
 
 namespace Foodie.Controllers.Restaurant
 {
-    public class AddResController : Controller
+    public class AddrestaurantController : Controller
     {
-        public IActionResult Index()
+        public IActionResult AddRes()
         {
             return View();
         }
